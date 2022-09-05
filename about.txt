@@ -1,0 +1,4 @@
+toucI like my car
+I don't know how to drive manual.[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D.[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+ls -1 about.text
+[A[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[[3~[3~
